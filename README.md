@@ -1,2 +1,3 @@
-# Loera-SBUS-Receiver-Transmitter
-SBUS Receiver and Transmitter with OLED and LoRa ESP32 WROOM-32U
+## Dosyalar
+- [Transmitter Kodları](src/01_transmitter.ino)
+- [Receiver Kodları](src/02_receiver.ino)
